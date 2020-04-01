@@ -1,0 +1,21 @@
+{
+  "name": "Skylab Theater Mode",
+  "description": "Change view mode to Theater in Skylab.rocketseat.com.br",
+  "version": "1.0",
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_title": "A theater view in skylab",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
