@@ -1,4 +1,6 @@
-<h1 align="center">Skylab Theater Mode</h1>
+<h1 align="center">
+  <img width="250px" src="https://user-images.githubusercontent.com/48302018/78456226-c3b82600-7678-11ea-8810-3d0bc921c1a1.png" />
+</h1>
 
 <blockquote align="center">
   Uma simples extensão para o Chrome que simula um modo retrato no Skylab, plataforma de videos da RocketSeat. 
@@ -7,10 +9,7 @@
 
 <h2>Objetivo</h2>
 <p>
-  Geralmente quando assistimos algum video no youtube ou nas populares plataformas de streaming, e estamos fazendo outra
-  tarefa no PC, divimos a tela para uma melhor produtividade, eu sempre utilizei o skylab dividindo minha tela com o Visual
-  Studio Code, e como a plataforma até o momento não possui um modo retrato eu utilizava o zoom do Chrome para ajustar a tela,
-  essa extensão deixa esse processo mais prático.
+  Forçar o modo teatro ao clicar na extensão em páginas de video que ainda não possuem essa funcionalidade.
 </p>
 <br />
 <h2 align="center">Como instalar ?</h2>
