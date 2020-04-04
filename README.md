@@ -32,6 +32,5 @@
 </ol>
 
 <p>
-  Agora é só abrir o Skylab e testar.
+  Agora é só abrir seu site preferido e testar.
 </p>
-<img src="https://user-images.githubusercontent.com/48302018/78170949-1354e280-742a-11ea-96df-616226da2d6e.gif" />
