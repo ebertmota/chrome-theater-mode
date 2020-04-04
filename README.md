@@ -1,7 +1,7 @@
- <img align="center" width="250px" src="https://user-images.githubusercontent.com/48302018/78456226-c3b82600-7678-11ea-8810-3d0bc921c1a1.png" />
-<h1 align="center">
-    <h1>Teather Mode</h1>
-</h1>
+<div align="center">
+ <img width="250px" src="https://user-images.githubusercontent.com/48302018/78456226-c3b82600-7678-11ea-8810-3d0bc921c1a1.png" />
+ <h1>Teather Mode</h1>
+</div>
 
 <blockquote align="center">
   Uma simples extensão para o Chrome que força o modo teatro ao clicar em páginas de video que ainda não possuem essa funcionalidade.
