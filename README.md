@@ -27,7 +27,7 @@
   <li>Selecione o caminho da pasta que você extraiu.</li>
   <li>
     <p>Confira se a extensão adicionada está ativada.</p>
-    <img src="https://user-images.githubusercontent.com/48302018/78169844-69288b00-7428-11ea-984f-5fabf8cf50b7.png" />
+    <img src="https://user-images.githubusercontent.com/48302018/78457286-830fdb00-767f-11ea-9d0b-cec28e283a4c.png" />
   </li>
 </ol>
 
