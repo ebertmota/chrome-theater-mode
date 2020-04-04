@@ -1,15 +1,14 @@
+ <img align="center" width="250px" src="https://user-images.githubusercontent.com/48302018/78456226-c3b82600-7678-11ea-8810-3d0bc921c1a1.png" />
 <h1 align="center">
-  <img width="250px" src="https://user-images.githubusercontent.com/48302018/78456226-c3b82600-7678-11ea-8810-3d0bc921c1a1.png" />
+    <h1>Teather Mode</h1>
 </h1>
 
 <blockquote align="center">
-  Uma simples extensão para o Chrome que simula um modo retrato no Skylab, plataforma de videos da RocketSeat. 
+  Uma simples extensão para o Chrome que força o modo teatro ao clicar em páginas de video que ainda não possuem essa funcionalidade.
 </blockquote>
 <br />
 
-<h2>Objetivo</h2>
-<p>
-  Forçar o modo teatro ao clicar na extensão em páginas de video que ainda não possuem essa funcionalidade.
+  
 </p>
 <br />
 <h2 align="center">Como instalar ?</h2>
